@@ -126,3 +126,9 @@ Other things that I was either to stupid or too lazy to classify.
 * Validate queues
 * Validate notification topics
 * Fix up persistence scripts to use arguments instead of constants inside the scripts
+
+
+
+
+
+asdasdasd
